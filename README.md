@@ -23,10 +23,7 @@ The dataset includes diverse parking scenarios to ensure robust model performanc
 git clone https://github.com/yourusername/parking-space-detector.git
 cd parking-space-detector
 2. Set Up the Environment
-Ensure you have Python installed along with the required libraries. You can install dependencies using:
-
-pip install -r requirements.txt
-(Include a requirements.txt file listing packages like ultralytics, torch, opencv-python, etc.)
+Ensure you have Python installed along with the required libraries. You can install dependencies 
 
 3. Training and Validation
 Open and run the Jupyter Notebook cark-parkingspace-detection.ipynb to train the YOLOv8 model on your dataset.
