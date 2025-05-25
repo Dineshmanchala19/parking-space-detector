@@ -48,6 +48,3 @@ The dataset is split randomly to ensure a balanced representation for training, 
 This project is intended for academic and experimental purposes; adjust and optimize hyperparameters as needed for production use.
 
 Ensure your hardware supports training YOLOv8 models efficiently (preferably with a CUDA-enabled GPU).
-
-License
-[Specify your license here, e.g., MIT License]
